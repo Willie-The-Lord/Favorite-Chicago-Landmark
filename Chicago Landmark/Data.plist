@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>UChicago</string>
+			<key>description</key>
+			<string>UChicago is a prestigious research university known for its rigorous academics and innovative approach to education.</string>
+			<key>lat</key>
+			<real>41.78865120245953</real>
+			<key>long</key>
+			<real>-87.59870825968984</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mansueto Library</string>
+			<key>description</key>
+			<string>Mansueto Library is a modern research facility at University of Chicago with glass dome and ample resources and study spaces.</string>
+			<key>lat</key>
+			<real>41.79214495900938</real>
+			<key>long</key>
+			<real>-87.60087973036313</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MPCS </string>
+			<key>description</key>
+			<string>A fantastic place to learn all computer science knowledge!</string>
+			<key>lat</key>
+			<real>41.79070818411266</real>
+			<key>long</key>
+			<real>-87.60253158332975</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Regents Park</string>
+			<key>description</key>
+			<string>Regents Park is a residential community in Chicago with a variety of amenities and green spaces for residents to enjoy.</string>
+			<key>lat</key>
+			<real>41.80340272578565</real>
+			<key>long</key>
+			<real>-87.58518835919865</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Willis Tower</string>
+			<key>description</key>
+			<string>Tallest building in Chicago, formerly known as Sears Tower.</string>
+			<key>lat</key>
+			<real>41.87909074545093</real>
+			<key>long</key>
+			<real>-87.63591229700125</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Navy Pier</string>
+			<key>description</key>
+			<string>Popular tourist attraction featuring dining, entertainment, and views of Lake Michigan.</string>
+			<key>lat</key>
+			<real>41.89204697107549</real>
+			<key>long</key>
+			<real>-87.60512658803245</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>McDonald’s Global Menu Restaurant</string>
+			<key>description</key>
+			<string>Fast food chain offering classic menu items and localized options in Chicago.</string>
+			<key>lat</key>
+			<real>41.88398075617199</real>
+			<key>long</key>
+			<real>-87.65362380152517</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>China Town</string>
+			<key>description</key>
+			<string>Chinatown in Chicago is a bustling neighborhood known for its rich cultural heritage and diverse array of shops, restaurants and markets.</string>
+			<key>lat</key>
+			<real>41.85067735205742</real>
+			<key>long</key>
+			<real>-87.63447561766226</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Art Institute of Chicago</string>
+			<key>description</key>
+			<string>The Art Institute of Chicago is a world-renowned museum featuring a vast collection of art, from ancient to contemporary.</string>
+			<key>lat</key>
+			<real>41.87974424200115</real>
+			<key>long</key>
+			<real>-87.62369184385363</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>region</key>
+	<array>
+		<real>41.78865120245953</real>
+		<real>-87.59870825968984</real>
+	</array>
+</dict>
+</plist>
